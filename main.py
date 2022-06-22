@@ -43,31 +43,3 @@ for i in range(0, t, 2):
         print(words4[i], "  ---> ", words4[i+1])
     else:
         print("Kraj.")
-
-
-
-
-'''with open('tekst.txt','r') as f:
-    for line in f:
-        for word in line.split():
-            if word not in words:
-                words.append(word)
-
-from nltk.corpus import wordnet
-for each in words:
-    syns = wordnet.synsets(each)
-    i = 0
-    for each1 in syns:
-        i = i + 1
-    for i in range(i):
-        tmp = syns[i].lemmas()[0].name()
-        tmp1 = str(each)
-        if str(tmp) != str(tmp1):
-            words1.append(syns[i].lemmas()[0].name())
-print(words)      
-for each in words:
-    if each in words1:
-        final.append(each)
-
-print(words1)
-print(words2)'''
