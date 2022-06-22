@@ -1,0 +1,454 @@
+The outbreak of the Corona virus has led to unprecedented measures
+in education. From March 16, all schools in the Netherlands are closed,
+and children must keep up with their schoolwork from home. Parents are
+expected to take a crucial role in this “homeschooling”: they are primar-
+ily responsible for ensuring that their children follow the curriculum. In
+this article I report the first results of a module in the LISS Panel that
+was designed to map how parents school their children in primary and
+secondary education. Data on a nationally representative sample of 1,318
+children in primary and secondary education were gathered in April. The
+results show marked differences between social groups. Whereas all parents
+find it important that their children keep up with the schoolwork, children
+from advantaged backgrounds receive much more parental support and have
+more resources (¢.g., own computer) to study from home. Differences in
+parental support are driven by the ability to help: parents with a higher
+education degree feels themselves much capable to help their children with
+schoolwork than lower educated parents. Parents also report that schools
+provide more extensive distant schooling for children in the academic track
+in secondary education (vwo) than for children in the pre-vocational track
+umbo. Finally, there is a clear gender gap: parents feel much more capable
+to support their daughters than their sons. These initial findings provide
+first indications that the school shutdown in the Netherlands is likely to
+have strong effects on the inequality in educational opportunities.
+
+*The research in this article has been supported by an ODISSEI grant to collect
+data during the Covid-19 crisis. I would like to thank Joost Leenen for his help with
+programming the survey and Sara Geven and Dieuwke Zwier for their comments on the
+initial version of the survey.
+
+1 Introduction
+
+The Covid-19 pandemic has led to unprecedented measures in education. From
+March 16, all schools in the Netherlands are closed, and children must keep up
+with their schoolwork from home. Parents are expected to take a crucial role
+in this “homeschooling”: they are primarily responsible for ensuring that their
+children follow the curriculum. Within the LISS panel I have gathered data
+to investigate how parents (differently) deal with homeschooling. A worry is
+that the long period of exposure to homeschooling is likely to increase socio-
+economic inequalities in education, as children from disadvantaged families have
+less resources to study and less access to help when studying from home. To
+what extent do children from different socio-economic backgrounds get the same
+opportunities to learn during the school shutdown?
+
+A key finding in sociology, educational sciences, and economics is that chil-
+dren from disadvantaged families have fewer opportunities in education than chil-
+dren from a higher socio-economic background (Breen and Jonsson, 2005) In the
+Netherlands these inequalities are reported too: the Dutch Educational Inspec-
+torate repeatedly reported large gaps in educational outcomes between children
+of higher and lower educated parents (Inspectie van het Onderwijs, 2017). One
+of the key reasons why children that grow up in advantaged families have bet-
+ter opportunities is because they have more resources to learn (Bourdieu, 1973).
+Partly these resources are material, but partly these resources are immaterial and
+closely related to parental involvement in schooling.
+
+First, some families lack important educational resources (e.g., computers,
+software) that are required for doing schoolwork. This problem of a lack of
+material resources might be even more urgent in a situation where all school-going
+children are at home, and one computer within the family might not be sufficient.
+There might also be variation in the living space per household member, which
+might impede the possibility for quiet study. This lack of material resources that
+can be crucial for doing schoolwork from home are clustered in disadvantaged
+families, where income is low (Angus et al., 2004). Another resource that might
+be scarcer among some families is time. Some children grow up in a household
+with two caretakers, others with just one. There is a clear socio-economic gradient
+in the time that parents can spend with their children
+
+Second, parental involvement in schoolwork is known to have a strong effect
+on educational outcomes. When parents are more involved with schoolwork, cog-
+nitive test scores are found to be higher, resulting in higher levels of educational
+attainment (Boonk et al., 2018). Similar results are found for the Netherlands
+(Driessen et al., 2005).+
+
+Socio-economic gaps in parental involvement are likely to increase existing in-
+equalities in education too. Lower-educated parents are, on average, less capable
+
+‘Tt is important to take into account that parental involvement is partly driven by the
+demand: meaning that lower performing children will receive more support because they need
+it (see also (Driessen et al., 2005)). However, this does not explain socio-economic gaps in
+parental involvement.
+
+to provide adequate help in their children’s schooling (Lee and Bowen, 2006).
+Higher educated parents, in contrast, try to foster and enhance their children’s
+talents by offering them ample opportunities to learn (Lareau, 2011). They are
+very aware of the importance of education to get ahead in society, and actively
+try to advance their children’s schooling careers (Calarco, 2018; Lareau, 2011).
+When it comes to help with schoolwork, higher-educated parents are both more
+able to help out, but also believe that more help is needed. Both mechanisms
+will increase existing inequalities in education.
+
+In a normal situation, this strong variation in opportunities that children get
+at home is at least partly mitigated by school: everyone can learn during school
+times. Schools are thereby thought to be highly important for creating equal
+opportunities in society. However, because of the Covid-19 outbreak schools are
+closed, and parents have become primarily responsible for the learning of their
+children. Given the strong socio-economic gradient that is found in resources
+at home, this is likely to increase socio-economic gaps in education. During
+the school shutdown, children from different backgrounds get widely different
+opportunities to learn.
+
+In the Netherlands the full school shutdown will last for 8 weeks for children
+in primary school. After this, children will return to primary schools for half of
+the time; the remaining schoolwork is expected to be done at home. Secondary
+schools in the Netherlands will remain closed, with the intention to (partially)
+re-open them on June 1, 2020. While this period might seem like a short period,
+existing research finds that even short breaks are likely to increase inequalities.
+Alexander et al. (2001) show that in the United States socio-economic inequal-
+ities increase during the 2-3 month summer break. Children from advantaged
+backgrounds get ample opportunities to develop, whereas this is not the case for
+children from disadvantaged families. This “summer setback” is has lasting ef-
+fects on educational performance in, for example, mathematics (Alexander et al.,
+2007).
+
+The school shutdown driven by the Covid-19 pandemic has a large impact on
+how children learn. In order to map this, I have surveyed a representative sample
+of Dutch parents about their school-going children using the LISS-Panel. The
+goal of the data collection is twofold. First, to describe (social inequalities in)
+how parents support their children with schooling during the school shutdown.
+Second, to track the short- and long-term consequences of (social inequality) in
+homeschooling. In this brief article I will describe preliminary results regarding
+the first question.
+
+2 Data
+
+Data for the survey were collected from April 13 to April 28 within the LISS
+(Longitudinal Internet Studies for the Social sciences) Panel. The LISS panel
+consists of 4,500 households, containing about 7,000 individuals. LISS collects
+data using online questionnaires. The panel consists of households from a true
+probability sample of households drawn from the Dutch population registers by
+
+Statistics Netherlands. Whenever a household wanted to participate but was not
+able because they lacked a computer or internet connection, LISS provided them
+with it. Every month, members of the LISS Panel complete online questionnaires
+of about 15 to 30 minutes in total. Panel members are remunerated for each
+completed questionnaire. A longitudinal survey is fielded in the panel every year,
+covering a large variety of domains including work, education, income, housing,
+time use, political views, values and personality. In addition to this LISS Core
+Study, many separate modules are fielded to collect scientific data for scholars
+from widely different disciplines, from sociology to medical sciences.
+
+2.1 Sample
+
+For the current LISS module on homeschooling during the school shutdown, only
+panel members with children in the school-going ages for primary and secondary
+education (4-18 years old) were targeted. If two caretakers? were living in the
+same household, both had the opportunity to fill in the survey. In total 1,212
+panel members met the criteria, 898 filled in the questionnaire, which means a
+response rate of 74%. The final analytic sample contains information from 768
+parents: 130 parents did have children in the school going age, but these children
+were not enrolled in secondary school anymore (but in an upper secondary voca-
+tional course mbo or tertiary vocational education hbo). The LISS Panel does not
+provide weights, which means that selective non-response cannot be accounted
+for.
+
+All parents were asked to provide information on all of their children. The
+final sample therefore contains information on 1,318 children: 705 in primary
+school, 613 in secondary school. Data are analyzed on the level of the child,
+meaning that the final sample size of the data is the total number of children.
+
+2.2 Variables
+
+The module addressed different themes. First, parents asked about what schools
+provided them to continue schoolwork at home. Eight items were included, ask-
+ing parents to rank whether, for example, schools provided them with sufficient
+information to start homeschooling, or whether children and parents have regular
+contact with the teacher. All items were measured on a five point Likert-scale.
+
+A second block of items asks parents about how they support their children
+with their schoolwork. This contains, for example, items on whether parents
+provide help, whether children organize their own schoolwork, whether there is a
+clear structure when working on school at home. It also asks parents to indicate
+the extent of help they believe their child requires, and whether they feel capable
+to provide this support. Again respondents could score all statements from 1
+(Does not apply at all) to 5 (Applies completely). The module also asks parents
+how much time their children spend on their schoolwork in hours.
+
+? This can also be one biological parent and one step-parent.
+
+Phrased differently; about 70% of the highly educated parents answers that
+they agree or fully agree with the statement that they help their children with
+their homework, whereas this is only 50% of parents with a low level of education.
+Partly this is driven by the fact that lower educated parents feels less capable to
+help their primary school children. About 63% of them feels capable to help their
+childrent compared to 80% of the university-educated parents. Figure 2 shows
+that homeschooling during the Covid-19 pandemic is very different for children
+that grow up with highly educated parents and children that grow up with parents
+with low education.
+
+3.1.3 Material resources
+
+Figure 3 shows how material resources are distributed across children in primary
+school. The vast majority of children in primary school has their own bedroom
+(91%), a smaller share has their own workspace (68%). About 66% of children in
+primary school have a laptop or tablet for their own to do their schoolwork on.
+This means that about one third does not have their own device, but it should be
+noted that in primary education having a device is not required by the schools.
+About 80% of the parents report that an tablet or computer is necessary to do
+the schoolwork at home.
+
+While most children have material resources, there is a clear pattern among
+those who do not have resources. Education does not seem to explain (a lack of)
+material resources. However, the results do indicate that parents that score high
+
+4Scoring a 4 or 5 on the 5 point-scale question in Figure 1.
+
+indicates that most parents answer that they got information from schools after
+the shutdown. There is a bit more variation in the extent to which teachers
+contacted students. Even more variation can be found when we look at the extent
+to which parents perceive the communication of schools to be clear. Finally, there
+is clear variation in the extent to which teachers check the homework of students
+in primary school. I do not find stark differences in the extent to which parents
+with different levels of education report differences between schools-there are
+some indications that schools have relatively more contact with lower-educated
+parents, but these differences are small and not significantly different from zero.
+
+Figure 1: Parent involvement (primary education)
+
+3.1.2 Parental involvement
+
+Figure 1 shows the distribution of answers to parental involvement. A large share
+of the parents do not help their children with their schoolwork (upper left panel),
+but the majority does check whether children have done their schoolwork. Most
+parents feel capable to help their children in primary school. Almost all parents
+argue that they find it important that their children keep up with schoolwork
+during this period.
+
+The differences in parental involvement are partly explained by the educa-
+tional level of parents. Figure 2 shows the gap between parents with a university
+degree and parents with a secondary school degree at most. There is a clear
+educational gradient: higher educated parents are more involved in helping their
+offspring with their schoolwork and they also feel more capable to do this. These
+gaps are big, in both cases around .4sd of the variable.
+
+Figure 4 shows the effect of a lsd increase on the perceived poverty scale.
+This effect is about 6 percentage points when it comes to computers, meaning
+that for each standard deviation increase on the poverty scale children are 6
+percentage points less likely to own their own computer or laptop. Similar effect
+sizes are found for having an own workspace or bedroom, although the effect
+of workspace does not reach conventional levels of statistical significance. Not
+
+2.3. Methods
+
+The main goal of this paper is to summarize the first findings from the data
+collection. This means that I will rely mostly on simple description. There
+are, however, two methodological considerations. First, children are the unit of
+analysis but data was gathered at the parental level. Since children are clustered
+within parents and households, standard errors on the estimates are calculated
+taking this into account. Second, in primary education the age of the child has a
+strong effect on the parental support: older children require more support. Since
+the Dutch educational system is highly tracked, in secondary education a similar
+problem occurs as children in the academic track (vwo) require different support
+than children in the track that leads to upper secondary vocational education
+(umbo). For this reason the estimates of the gaps in homeschooling are obtained
+from simple regression models that control for these factors.
+
+ 
+
+3 Results
+
+Below the first main findings are summarized. Please note that this is not an
+exhaustive overview of all variables that were collected, but a first summary of
+key findings.
+
+3.1 Primary education
+
+3.1.1 School involvement
+
+In primary education there is variation in how schools dealt with the school
+shutdown, but there are very little structural differences across groups. Figure B1
+
+A third block of questions contains information on the material resources that
+are available at home. Parents are asked whether children have their own device
+(computer, tablet) to use for their schoolwork, whether children have their own
+bedroom, and whether children have a quiet place to study. Finally, parents
+are asked whether they have bought extra software to aid their children with
+schoolwork or whether children are now participating in extra (online) tutoring
+classes. All these items are measured on a binary scale (yes or no).
+
+In the module I also gathered information on the household. First, it tries
+to map the atmosphere at home. Six items measure whether there are tensions,
+whether there is a lot of fighting, and whether the day is clearly structured.
+Second, we measure the perceived poverty of a household using four items, by
+asking parents whether they can go on multiple holidays every year, or whether
+there is enough money to undertake fun activities with the family. These four
+items are transformed in a “perceived poverty”-scale, with an Cronbach’s a of .74.
+An overview of all (Dutch) questions in this LISS Module can be found in the
+Appendix.
+
+From the LISS Core module we include several other characteristics of panel
+members (and their partners). Final educational attainment of the parents is
+measured in four categories: low (primary school, only secondary school ( vmbo,
+havo, vwo)), upper secondary vocational (mbo), tertiary vocational (hbo), or uni-
+y (wo). When mapping whether there are socio-economic inequalities in
+homeschooling, I will mostly rely on the parents’ education to describe gaps*.
+LISS also contains information on the language that is primarily spoken at home.
+This variable is recoded into 0 (Dutch) and 1 (Any language other than Dutch).
+Although the variable is not available for all parents in the module, we do include
+it when estimating gaps.
+
+Descriptive statistics of the data for the parents are shown in Table 1 and for
+the children in Table 2.
+
+  
+
+   
+
+ 
+
+Table 1: Descriptives of parents
+
+Mean SD
+Education level
+Low -20
+Mbo 33
+Hbo 32
+Wo 16
+Number of school-going children 172 77
+Perceived poverty (std.) 0 74
+Partner in household 88
+Speaks Dutch in house 96
+
+’Compared to low educated parents, middle (mbo) and high (hbo, wo) educated parents
+work much often in crucial occupations, and this might unevenly affect their possibility to
+support their children with schoolwork. We cannot currently include this information, but if
+anything, this will increase the predicted gaps.
+
+surprisingly, differences in material resources are explained quite strongly by the
+income of families. Children that grow up in families at the bottom of the income
+distribution have least. access to resources that can improve learning from home.
+
+3.2 Secondary education
+
+3.2.1 School involvement
+
+Similar to students in primary education, most parents in secondary education
+obtained information from the school after the shutdown. Figure 5 also indicates
+that most students have regular contact with their teachers; about 75% of the
+parents agree or fully agree with this statement. There is more variation in the
+extent to which parents believe the communication was clear (bottom left panel)
+or whether teachers check the schoolwork of students in secondary education.
+
+Figure 5: School involvement (secondary education)
+
+These differences vary systematically across children from different backgrounds,
+but in this case lower educated parents report more involvement of the school.
+Figure 6 shows the predicted gaps between higher and lower educated parents.
+This confirms the idea that during the Covid-19 pandemic schools reach out
+more to students in disadvantaged families, and might also support them more
+by checking their schoolwork more often. It is clear that in secondary education
+the extent to which schools are involved in the schoolwork of their pupils is not
+likely to increase inequality in education.
+
+Large differences in school involvement are found between the educational
+tracks in Dutch education. Figure 7 shows the gap between what schools offer to
+students at the vmbo track (the track that leads to upper secondary vocational
+
+Similar to family background, be it parental education or poverty, educational
+inequalities between boys and girls are also likely to enlarge during the school
+shutdown. Girls receive more help, parents feel more capable helping them, and
+parents report that they like their schoolwork more.
+
+4 Conclusion
+
+The Covid-19 outbreak has led to school shutdowns around the world, thereby
+making parents primarily responsible for the learning of their children. In April
+data were collected on the homeschooling practices of parents in the Netherlands.
+A specific goal of this data collection was to map how parents from different
+socio-economic backgrounds provided different support with the schoolwork of
+their children. The initial results provide strong evidence that there are large
+gaps in how children have learned during the school shutdown.
+
+In primary education, parents with a high educational background believe
+that their children need more support with their schooling and thus also provide
+
+Education gap (A High-Low) in sd
+
+Information Contact Communication Check homework
+
+Note. - Predicted gaps based on a regression model, controlling for the age of the child, a binary
+indicator measuring whether the child worked from home, an indicator for school year, and a
+dummy for the school track the child is in. Whiskers depict 95% confidence intervals. Standard
+errors are clustered at the parent and household level.
+
+education) and the academic vwo track. Parents report that their children in the
+academic track are much more likely to have had digital classes than children in
+the pre-vocational track—a gap of almost .5sd. Similarly, children in the academic
+track much more often receive a structured educational programme, and their
+schoolwork is checked more often. These findings are not explained by the fact
+that children in the academic track go to school longer: in the models we control
+for grade year, basically comparing differences for students in the same grade
+year.
+
+These gaps clearly indicate that the school shutdown did not only have effects
+on children from different family backgrounds, but for children in different school
+tracks too. Parents report that children in the pre-vocational track receive less
+extensive support from their schools than children in the academic track.
+
+3.2.2 Parental involvement
+
+In line with primary school children, there is also variation in the extent to which
+parents in secondary school support their children with schoolwork. Figure 8
+depicts the distribution of four factors of parental involvement. In contrast to
+primary education, in secondary education parents support their children far less.
+Moreover, they are less likely to check the schoolwork of the children. There is
+also more variation in the extent to which parents feel themselves capable to help
+their children with schoolwork. About 25% does not feel themselves capable to
+
+
+more support. Strikingly, even in primary education there is a large gap in the
+extent to which parents feel themselves capable to support their children. The
+first results also indicate some differences with respect to material resources, and
+particularly families in poverty have more difficulties in providing resources that
+might improve learning from home. Differences in material resources are found
+for children in both primary and secondary education.
+
+In secondary education there there is a very large gap in parental support
+between children with higher and lower educated parents. About 75% of the
+parents with academic education feel themselves capable to support their children
+with their schoolwork, compared to only 40% of the lower educated parents.
+Gender plays a role too: parents support their sons less, feel less capable of
+supporting them, and report that boys enjoy doing their schoolwork much less
+than girls. The school shutdown is thereby also likely to increase gender inequality
+in education.
+
+School involvement tends to be higher for children who have lower educated
+parents. At the same time I find that schools offer children from the highest track
+(vwo) a much more structured educational programme including digital classes
+than children from the pre-vocational track (vmbo). This signals that the school
+shutdown also affects educational levels in secondary education differently.
+
+The first results from this data collection provides strong indications that
+the school shutdown caused by the Covid-19 pandemic will increase existing in-
+equalities in education. Children from disadvantaged families received much less
+support from their parents, which is likely to have impeded their learning during
+this period.
+
+The largest gap, however, is in the extent to which parents feel capable to
+help their children: a gap of almost .9sd. This gap is visualized in Figure 10.
+It becomes clear that higher educated see themselves as much more capable to
+help their children. About 75% of the parents with an academic education feels
+themselves capable to help their children, compared to only 40% of the lower
+educated parents. However,Figure 9 also makes clear that all parents find it
+equally important that their children make their schoolwork. This indicates that
+there are large disparities in the possibilities that parents have to help their
+children during the school shutdown.
+
+3.2.3 Material resources
+
+Figure B2 shows the description of the material resources. Compared to primary
+education, children in secondary education have much more access to material
+resources. More than 90% of the parents reports that their children have their
+own room, a quiet place to study, and a laptop or tablet they can use for their
+schoolwork. This percentage is partly explained by the fact that 95% of the
+parents reports that a laptop or tablet is necessary to do the schoolwork at home.
+
+student scholar
